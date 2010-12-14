@@ -25,15 +25,12 @@ set incsearch
 set backspace=indent,eol,start
 
 set foldmethod=indent
+set foldcolumn=1
 
 set noerrorbells
 set vb
 
-"augroup mkd
-"  autocmd BufRead *.mkd  set ai formatoptions=tcroqn2 comments=n:>
-"augroup END
-
-"set runtimepath+=$HOME/.vim/vim-ruby
-
-"let clj_highlight_builtins = 1
-"let clj_paren_rainbow = 1
+vmap < <gv
+vmap > >gv
+vmap <Tab> >gv
+vmap <S-Tab> <gv
