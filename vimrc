@@ -35,5 +35,3 @@ vmap > >gv
 vmap <Tab> >gv
 vmap <S-Tab> <gv
 
-":source /usr/share/vim/addons/plugin/matchit.vim
-
