@@ -70,3 +70,9 @@
 [submodule "bundle/rumember"]
 	path = bundle/rumember
 	url = git://github.com/tpope/rumember.git
+[submodule "vim-matchit"]
+	path = vim-matchit
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = https://github.com/tsaleh/vim-matchit.git
