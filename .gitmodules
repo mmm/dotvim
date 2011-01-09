@@ -70,9 +70,24 @@
 [submodule "bundle/rumember"]
 	path = bundle/rumember
 	url = git://github.com/tpope/rumember.git
-[submodule "vim-matchit"]
-	path = vim-matchit
-	url = https://github.com/tsaleh/vim-matchit.git
 [submodule "bundle/matchit"]
 	path = bundle/matchit
 	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "bundle/a"]
+	path = bundle/a
+	url = https://github.com/vim-scripts/a.vim.git
+[submodule "bundle/fuzzy_file_finder"]
+	path = bundle/fuzzy_file_finder
+	url = https://github.com/jamis/fuzzy_file_finder.git
+[submodule "bundle/fuzzyfinder_textmate"]
+	path = bundle/fuzzyfinder_textmate
+	url = https://github.com/jamis/fuzzyfinder_textmate.git
+[submodule "bundle/FuzzyFinder"]
+	path = bundle/FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/scratch"]
+	path = bundle/scratch
+	url = https://github.com/vim-scripts/scratch.vim.git
+[submodule "bundle/L9"]
+	path = bundle/L9
+	url = https://github.com/vim-scripts/L9.git
