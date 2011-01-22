@@ -91,3 +91,15 @@
 [submodule "bundle/L9"]
 	path = bundle/L9
 	url = https://github.com/vim-scripts/L9.git
+[submodule "bundle/IndexedSearch"]
+	path = bundle/IndexedSearch
+	url = https://github.com/henrik/vim-indexed-search.git
+[submodule "bundle/gist"]
+	path = bundle/gist
+	url = https://github.com/mattn/gist-vim.git
+[submodule "bundle/jQuery"]
+	path = bundle/jQuery
+	url = https://github.com/vim-scripts/jQuery.git
+[submodule "vim-ruby-debugger"]
+	path = vim-ruby-debugger
+	url = git://github.com/astashov/vim-ruby-debugger.git
