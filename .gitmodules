@@ -100,6 +100,3 @@
 [submodule "bundle/jQuery"]
 	path = bundle/jQuery
 	url = https://github.com/vim-scripts/jQuery.git
-[submodule "vim-ruby-debugger"]
-	path = vim-ruby-debugger
-	url = git://github.com/astashov/vim-ruby-debugger.git
